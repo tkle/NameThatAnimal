@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Name That Animal</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+
+    <!-- Preferences -->
+    <string name="enable_audio">Enable audio</string>
+    <string name="audio_on">Sound is on.</string>
+    <string name="audio_off">Sound is off.</string>
+    <string name="title_activity_settings">SettingsActivity</string>
+    <string name="background_image_description">Background image with various animals</string>
+
+    <string name="play">Play</string>
+    <string name="question">Question %1$d of %2$d</string>
+    <string name="what_animal">What is the Animal?</string>
+    <string name="results">%1$d guesses, %2$.01f%% correct</string>
+    <string name="incorrect_answer">Incorrect!</string>
+    <string name="wrong">WRONG!</string>
+    <string name="image_description">Image of the current animal in game</string>
+    <string name="ok">OK</string>
+
+</resources>

@@ -1,0 +1,10 @@
+<PreferenceScreen xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <SwitchPreferenceCompat
+        app:key="@string/enable_audio"
+        app:title="@string/enable_audio"
+        app:summaryOff="@string/audio_off"
+        app:summaryOn="@string/audio_on"
+        app:defaultValue="@string/audio_on"/>
+
+</PreferenceScreen>
